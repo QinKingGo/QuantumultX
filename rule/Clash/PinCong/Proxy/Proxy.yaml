@@ -1,0 +1,8 @@
+# NAME: 
+# AUTHOR: 
+# UPDATED: 2022-12.03
+# DOMAIN-SUFFIX: 1
+# TOTAL: 1
+payload:
+  - DOMAIN-SUFFIX,gettr.com
+  - DOMAIN-SUFFIX,himalaya.exchange
