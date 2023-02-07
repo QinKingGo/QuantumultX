@@ -8,5 +8,5 @@
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST-SUFFIX | 2  | 
-| TOTAL | 2  | 
+| HOST-SUFFIX | W+  | 
+| TOTAL | w+  | 
